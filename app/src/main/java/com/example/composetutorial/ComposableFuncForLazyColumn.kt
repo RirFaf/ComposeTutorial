@@ -38,5 +38,4 @@ fun ComposableFuncForLazyColumn(item: ItemRowModel) {
         Text(text = item.title)
         Text(text = item.description)
     }
-
 }

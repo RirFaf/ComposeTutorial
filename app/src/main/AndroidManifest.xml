@@ -12,7 +12,7 @@
         android:theme="@style/Theme.ComposeTutorial"
         tools:targetApi="31">
         <activity
-            android:name=".LazyRowTut"
+            android:name=".TextExpandTut"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.ComposeTutorial">
