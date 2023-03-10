@@ -1,4 +1,4 @@
-package com.example.composetutorial
+package com.example.composetutorial.neco
 
 data class ItemRowModel(
     val imageID: Int,

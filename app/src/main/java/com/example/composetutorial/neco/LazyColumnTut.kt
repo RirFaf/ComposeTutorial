@@ -1,4 +1,4 @@
-package com.example.composetutorial
+package com.example.composetutorial.neco
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

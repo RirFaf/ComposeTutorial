@@ -1,4 +1,4 @@
-package com.example.composetutorial
+package com.example.composetutorial.neco
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -11,12 +11,10 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import com.example.composetutorial.ui.theme.Gray200
-import com.example.composetutorial.ui.theme.Gray900
 
 @Composable
 fun ComposableFuncForLazyColumn(item: ItemRowModel) {

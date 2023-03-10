@@ -1,18 +1,15 @@
-package com.example.composetutorial
+package com.example.composetutorial.neco
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
-import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.Color.Companion.Gray
-import com.example.composetutorial.ui.theme.Gray500
+import com.example.composetutorial.R
 import com.example.composetutorial.ui.theme.Gray700
 
 //Шаблон
