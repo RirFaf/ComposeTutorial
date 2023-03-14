@@ -72,7 +72,7 @@ private fun loadUI() {
         Box(
             modifier = Modifier
                 .fillMaxWidth()
-                .background(Gray500)
+//                .background(Gray500)
                 .padding(vertical = 120.dp)
         ) {
             Column(
